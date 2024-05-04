@@ -1,15 +1,12 @@
-# ⚙️ Projeto
+# Portfolio Responsive Completo
+### Portfolio Responsive Completo
 
-Menu lorotv. ainda em construção.
+-Portfolio site em HTML,CSS & JavaScript.
+- Contem algumas animaçoes em  scroll.
+- Rolagem suave em cada seção.
+- Desenvolvido primeiro com a metodologia Mobile First, depois para desktop..
+- Compatível com todos os dispositivos móveis e com uma interface de usuário bonita e agradável.
 
-# ✈️ Tecnologias
 
-- HTML
-- CSS
-- JavaScript
-# 🖥️ Resultado
+![pre-visualizaçao img](/preview.png)
 
-<div align="center">
-  <img alt="isnar" src="teste.png" width="300px">
-  <p>Confira o resultado: <a href="https://isnartech.github.io/">isnartech.github.io</a></p>
-</div>
