@@ -9,3 +9,10 @@
 
 
 ![pre-visualizaçao img](/preview.png)
+
+# 🖥️ Resultado
+
+<div align="center">
+  <img alt="isnar" src="preview.png" width="300px">
+  <p>Confira o resultado: <a href="https://isnartech.github.io/">isnartech.github.io</a></p>
+</div>
