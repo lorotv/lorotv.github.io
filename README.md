@@ -13,6 +13,6 @@
 # 🖥️ Resultado
 
 <div align="center">
-  <img alt="isnar" src="preview.png" width="300px">
+  <img alt="isnar" src="preview.png">
   <p>Confira o resultado: <a href="https://isnartech.github.io/">isnartech.github.io</a></p>
 </div>
