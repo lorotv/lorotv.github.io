@@ -1,5 +1,5 @@
 # Portfolio Responsivo Completo
-### Portfolio Responsiv0 Completo
+### Portfolio Responsivo Completo
 
 -Portfolio site em HTML,CSS & JavaScript.
 - Contem algumas animaçoes em  scroll.
