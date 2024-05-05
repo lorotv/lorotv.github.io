@@ -389,7 +389,7 @@ img {
 .contact__icon {
   font-size: 1.5rem;
   color: #0b110e;
-  margin: 0 var(--mb-2);
+ text-align: center;
 }
 
 /* ===== FOOTER =====*/
