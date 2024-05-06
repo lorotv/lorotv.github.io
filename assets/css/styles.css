@@ -290,18 +290,6 @@ img {
   border-radius: 0.5rem;
   z-index: var(--z-back);
 }
-.skills__html {
-  width: 95%;
-}
-.skills__css {
-  width: 85%;
-}
-.skills__js {
-  width: 65%;
-}
-.skills__ux {
-  width: 85%;
-}
 /* ===== SKILLS 2 =====*/
 .skills__container2 {
   row-gap: 2rem;
@@ -341,18 +329,6 @@ img {
   height: 0.25rem;
   border-radius: 0.5rem;
   z-index: var(--z-back);
-}
-.skills__html2 {
-  width: 95%;
-}
-.skills__css2 {
-  width: 85%;
-}
-.skills__js2 {
-  width: 65%;
-}
-.skills__ux2 {
-  width: 5%;
 }
 
 
