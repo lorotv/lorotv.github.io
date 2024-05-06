@@ -381,6 +381,7 @@ img {
   font-size: 1.5rem;
   color: #0b110e;
  text-align: center;
+justify-items: center;
 }
 
 /* ===== FOOTER =====*/
