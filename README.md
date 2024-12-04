@@ -11,6 +11,6 @@
 
 
 <div align="center">
-  <p>Visualize aqui->: <a href="https://isnartech.github.io/">isnartech.github.io</a></p>
+  <p>Visualize aqui->: <a href="https://lorotv.github.io/">isnartech.github.io</a></p>
 <img alt="isnar" src="preview.png">
 </div>
