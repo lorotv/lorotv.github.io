@@ -10,5 +10,5 @@
 
 <div align="center">
   <p>Visualize aqui->: <a href="https://lorotv.github.io/">lorotv.github.io</a></p>
-<img alt="isnar" src=".png">
+<img alt="lorotv" src=".png">
 </div>
