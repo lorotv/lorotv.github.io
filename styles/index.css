@@ -1,0 +1,119 @@
+body {
+    text-align: center;
+    margin-top: 48px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: white;
+    background: fixed;
+    background: linear-gradient(#caf7e2,#000000);
+    background-attachment: fixed;
+    background-position: left;
+}
+
+h1, p {
+  color: #ffffff;
+}
+h2, p {
+  color: #ffffff;
+}
+
+p {
+  font-size: 22px;
+}
+
+.profile-photo {
+  width: 120px;
+  transition: all 0.3s ease;
+  border-radius: 100%;
+}
+
+.profile-photo:hover {
+  filter: drop-shadow(0 0 0.75rem #ffffff);
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.link-tree {
+  list-style: none;
+  padding: 0;
+  font-size: 20px;
+}
+
+.link-tree > li {
+  margin: 12px 0;
+}
+
+.link-tree >li a {
+  color: #ffffffde;
+  border-radius: 6px;
+  padding: 12px;
+  text-decoration: none;
+  max-width: 360px;
+  width: 90%;
+  display: block;
+  margin: 0 auto;
+} 
+
+.link-tree > li a {
+  background: #ffffff30;
+  transition: all 0.2s ease;
+}
+
+.link-tree > li a:hover,
+.link-tree > li a:focus {
+  color: white;
+  background: #ffffff70;
+  transition: all 0.2s ease;
+}
+
+/* Footer CSS */
+.footer__container {
+    background-color: #131313;
+    padding: 5rem 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+} 
+  
+#footer__logo {
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 2rem;
+}
+  
+.footer__links {
+    width: 100%;
+    max-width: 1000px;
+    display: flex;
+    justify-content: center;
+}
+  
+.footer__link--wrapper {
+    display: flex;
+}
+  
+.footer__link--items {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin: 16px;
+    text-align: center;
+    width: 160px;
+    box-sizing: border-box;
+}
+
+.social__icon--link {
+    color: #fff;
+    font-size: 24px;
+    margin-left: 10px;
+    filter: none;
+    transition: all 0.3s ease;
+}
+
+.social__icon--link:hover {
+  filter: drop-shadow(0 0 0.75rem #ffffff);
+  transition: all 0.3s ease;
+}
